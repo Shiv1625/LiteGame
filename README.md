@@ -1,1 +1,1 @@
-# LiteGame
+# LifeGame
